@@ -90,16 +90,16 @@ module.exports = {
         }
       },
       {
-        name: "(a definir)",
-        photo: "themes/yellow-swan/img/partner-tds-tecnologia.jpg",
-        bio: "",
-        company: "TDS Tecnologia",
+        name: "Dhyego Fernando",
+        photo: "themes/yellow-swan/img/speaker-dhyego-fernando.jpg",
+        bio: "Atualmente com 18 anos, é desenvolvedor web front e back-end apaixonado no que faz e fissurado em solucionar problemas com boas práticas e um bom código. Sempre buscou enfrentar novos desafios, conhecer e utilizar novas tecnologias pois acredita que um bom desenvolvedor não deve ser rotulado.",
+        company: "WebFlavia",
         link: {
-          href: "http://tdstecnologia.com.br/",
-          text: "website"
+          href: "https://github.com/dhyegofernando",
+          text: "@dhyegofernando"
         },
         presentation: {
-          title: "A definir",
+          title: "Introdução ao AngularJS",
           description: "",
           time: "07/05 às 19h30",
           //slide: ""
