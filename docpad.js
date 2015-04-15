@@ -43,7 +43,7 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://unicbr.github.io/circuito-de-ti",
+      url: "http://unicbr.github.io/circuito-de-ti/",
       googleanalytics: "UA-61773986-1"
     },
 
