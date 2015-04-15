@@ -160,6 +160,11 @@ module.exports = {
         name: "Quality",
         logo: "themes/yellow-swan/img/partner-qualitysi.jpg",
         url: "http://www.qualitysi.com.br/"
+      },
+      {
+        name: "WebFlavia",
+        logo: "themes/yellow-swan/img/partner-web-flavia.jpg",
+        url: "http://www.webflavia.com.br/"
       }
     ],
 
