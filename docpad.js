@@ -146,6 +146,11 @@ module.exports = {
         name: "Omega Sistemas",
         logo: "themes/yellow-swan/img/sponsor-omega-sistemas.jpg",
         url: "http://omegasistemas.net.br/"
+      },
+      {
+        name: "Puma Sistemas",
+        logo: "themes/yellow-swan/img/sponsor-puma-sistemas.jpg",
+        url: "http://www.pumasistemas.com.br/"
       }
     ],
 
